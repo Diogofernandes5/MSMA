@@ -1,0 +1,18 @@
+---------Apresentação intermédia---------
+requisistos
+principios de funcionamento
+simulação basica
+
+Ver a capacitancia em derived values
+
+
+LINKS:
+
+https://www.comsol.com/paper/download/100681/anju_paper.pdf
+https://www.comsol.com/paper/download/100683/anju_presentation.pdf
+https://link.springer.com/article/10.1007/s00542-018-04292-0#Fig1
+
+https://www.st.com/en/mems-and-sensors/ais2120sx.html
+https://www.bosch-semiconductors.com/automotive-mems-sensors/airbag-systems/sma682/
+
+https://www.researchgate.net/publication/257439996_Optimization_of_MEMS_capacitive_accelerometer
