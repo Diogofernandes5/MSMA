@@ -16,3 +16,10 @@ https://www.st.com/en/mems-and-sensors/ais2120sx.html
 https://www.bosch-semiconductors.com/automotive-mems-sensors/airbag-systems/sma682/
 
 https://www.researchgate.net/publication/257439996_Optimization_of_MEMS_capacitive_accelerometer
+
+
+
+https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/2044696ADXL50.pdf
+http://www.fem.unicamp.br/~lotavio/tgs/2003_BibliografiaDeAcelerometros_TG_FelipeCarneiro.pdf
+https://pt.slideshare.net/jimnaturesa/acelermetros-airbag-presentation
+https://edisciplinas.usp.br/pluginfile.php/4426630/mod_resource/content/1/PMR3408_2018_Sensores_Capacitivos.pdf
